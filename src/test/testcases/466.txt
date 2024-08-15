@@ -1,0 +1,17 @@
+
+            func f1()
+            func f2()
+            func main()
+            begin
+                dynamic x
+                number arr[3]
+                arr[0] <- f1()
+                x <- arr
+                x <- f2()
+            end
+
+            func f1()
+                return 1
+            func f2()
+                return false
+        

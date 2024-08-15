@@ -1,0 +1,12 @@
+
+            func f()
+            begin
+                return f()
+            end
+            func main()
+            begin
+                number y <- 1
+                var x <- f()
+                string z <- ""
+            end
+        

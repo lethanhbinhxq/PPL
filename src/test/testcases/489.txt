@@ -1,0 +1,15 @@
+
+            func g(number f)
+            begin
+                if (f < 0) return 0
+                elif (f = 3) return 3
+                else return g(f) * g(f / 2)
+            end
+
+            func main()
+            begin 
+                dynamic x
+                number y <- g(x)
+                x[1] <- [4,8,0]
+            end
+            

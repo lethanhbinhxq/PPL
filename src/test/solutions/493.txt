@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: VarDecl(Id(x), None, var, BinaryOp(-, ArrayCell(Id(arr), [NumLit(40.0), NumLit(90.0)]), NumLit(100.0)))

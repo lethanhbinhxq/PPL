@@ -1,0 +1,10 @@
+
+            func main()
+            begin
+                dynamic x
+                var y <- 1 + 1 + 1 + 1 + 1
+                string s
+                bool a[4, 5] <- x[4, 5]
+            end
+
+        

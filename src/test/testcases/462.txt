@@ -1,0 +1,13 @@
+
+            func main()
+            begin
+                number arr[10]
+                arr[3] <- 0
+                arr[4] <- 2
+                arr[5] <- 4
+                arr[6] <- 6
+                arr[7] <- 8
+                arr[8] <- 10
+                arr[9] <- false
+            end
+        

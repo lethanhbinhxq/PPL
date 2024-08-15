@@ -1,0 +1,11 @@
+
+            func main()
+            begin
+                dynamic i
+                var x <- 1
+                x <- x + 1
+                for i until i > 100 by 20
+                    break 
+                break
+            end
+        

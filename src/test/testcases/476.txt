@@ -1,0 +1,11 @@
+
+            func f()
+            func main()
+            begin
+                number arr[3,2] <- [f(), f(), f()]
+                arr[0] <- f()
+            end
+
+            func f()
+                return [7,8,9]
+        

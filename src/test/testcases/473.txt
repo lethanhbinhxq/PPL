@@ -1,0 +1,17 @@
+
+            func f()
+                return 0
+            func f2()
+            func f3()
+            func main()
+            begin
+                dynamic y
+                number x[5] <- [2 + 3, f(), f2(), y, f3()]
+                x[3] <- y
+            end
+
+            func f2()
+                return 1
+            func f3()
+                return false
+        

@@ -1,0 +1,11 @@
+
+            func f()
+                return
+            func main()
+            begin
+                dynamic f
+                f()
+                var x <- 1
+                return
+            end
+        

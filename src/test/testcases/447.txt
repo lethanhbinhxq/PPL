@@ -1,0 +1,11 @@
+
+            func f(string x)
+            
+            func main()
+            begin
+                number a <- f("1")
+            end
+
+            func f(string x)
+                return false
+        

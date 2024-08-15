@@ -1,0 +1,11 @@
+
+            dynamic x
+            dynamic y
+            func main()
+            begin
+                x <- true or false
+                y <- x
+                y <- 100
+                return
+            end
+        

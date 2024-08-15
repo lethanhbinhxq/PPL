@@ -1,0 +1,9 @@
+
+            dynamic x
+            dynamic y
+            dynamic z <- x ... y
+            dynamic t <- z and false
+
+            func main()
+                return
+        

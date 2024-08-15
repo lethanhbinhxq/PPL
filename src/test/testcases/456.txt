@@ -1,0 +1,11 @@
+
+            func main()
+            begin
+                number x <- 1 + 1
+                dynamic i
+                string s <- "Hello"
+                for i until i >= 100 by 10
+                    continue
+                continue
+            end
+        

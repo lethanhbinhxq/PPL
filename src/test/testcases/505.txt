@@ -1,0 +1,15 @@
+
+            func a()
+                return true
+            
+            func main()
+            begin
+                dynamic a <- a()
+                if (a)
+                    return
+                else 
+                    a <- a()
+            end
+
+                
+        

@@ -1,0 +1,11 @@
+
+            func main()
+            begin 
+                dynamic x
+                dynamic y
+                number arr[2,2] <- [x, y]
+                x <- [1,2]
+                y <- [3,4]
+                writeNumber(x[1] + y[1])
+            end
+            

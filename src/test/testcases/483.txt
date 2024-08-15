@@ -1,0 +1,11 @@
+
+            func f(string s)
+            begin
+                return true
+            end
+
+            func main()
+            begin
+                f("Hello")
+            end
+            

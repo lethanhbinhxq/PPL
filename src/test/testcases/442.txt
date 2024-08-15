@@ -1,0 +1,9 @@
+
+            func hello()
+                return "Hello World"
+            func main()
+            begin
+                hello()
+                return
+            end
+        

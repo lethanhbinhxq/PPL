@@ -1,0 +1,23 @@
+
+            func f(number x)
+    
+            func main()
+            begin
+                number a <- f(9)
+                string x
+                string y
+                string z
+            end
+    
+            func f(number y)
+            begin
+                if (y > 0)
+                    return f(1 / y)
+                elif (y = 0)
+                    return 0
+                else
+                    return false
+    
+            end
+    
+        

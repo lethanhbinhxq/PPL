@@ -1,0 +1,10 @@
+
+            string x
+            var y <- 1
+            func main()
+            begin
+                x <- "Hello " ... "world"
+                x <- false
+                return
+            end
+        

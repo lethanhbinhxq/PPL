@@ -1,0 +1,14 @@
+
+            func absDiff(number a, number b)
+            begin
+                if (a > b) return (a - b)
+                return (b - a)
+            end
+            func main()
+            begin
+                number a <- readNumber()
+                number b <- readNumber()
+                number c <- readNumber()
+                writeNumber(absDiff(absDiff(a,b),c))
+            end
+            

@@ -1,0 +1,17 @@
+
+            func main()
+            begin
+                number i <- 10
+                for i until i >= 50 by 10
+                begin
+                    for i until i >= 30 by 1
+                    begin
+                        break
+                        break
+                    end
+                    continue
+                    continue
+                end
+                break                
+            end
+        

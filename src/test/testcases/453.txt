@@ -1,0 +1,8 @@
+
+            func main()
+            begin
+                number i <- 1
+                for i until i >= 9 by 2
+                    return 1
+            end
+        

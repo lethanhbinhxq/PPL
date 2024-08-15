@@ -1,0 +1,9 @@
+
+            func g(number x[5], number y[5])
+                return 
+            func main()
+            begin
+                g([10,9,8,7,6], [5,4,3,2,"1"])
+            end             
+
+        

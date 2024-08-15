@@ -1,0 +1,9 @@
+
+            func f(number f)
+                return f()
+            
+            func main()
+            begin
+                number f <- f()
+            end
+        

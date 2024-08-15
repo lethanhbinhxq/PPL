@@ -1,0 +1,12 @@
+
+            func f()
+            
+            func main()
+            begin
+                dynamic x <- f()
+                x <- false
+            end
+
+            func f()
+                return "abc"
+        

@@ -1,0 +1,10 @@
+
+            var x <- 6
+            var y <- 15 + x
+            var z <- -y <= x
+            var t <- y or not z
+            
+            func main()
+                return
+            
+        

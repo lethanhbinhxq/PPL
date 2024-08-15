@@ -1,0 +1,7 @@
+
+            dynamic x
+            dynamic y
+            dynamic z <- x / y
+            func main()
+                return
+        

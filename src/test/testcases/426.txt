@@ -1,0 +1,6 @@
+
+            func f(string s, bool b)
+                
+            func main() 
+                return
+        

@@ -1,0 +1,10 @@
+
+            func main()
+            begin
+                dynamic x
+                dynamic y
+                dynamic z
+                var array <-[[x],[y],[z],["Hello"]]
+            end             
+
+        

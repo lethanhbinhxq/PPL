@@ -1,0 +1,8 @@
+
+            func zero(number x, number y)
+            
+            func main() 
+                return 0
+
+            func zero(number x, number y)
+               

@@ -1,0 +1,9 @@
+
+            func hello(string day, string night)
+            
+            func main() 
+                return 
+
+            func hello(string day, string noon, string night)
+                return "Hello"
+               

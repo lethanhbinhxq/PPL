@@ -1,0 +1,13 @@
+
+        
+            func a(number a)
+                return a()
+            
+            func main()
+            begin
+                dynamic a <- a()
+        
+            end
+
+                
+        

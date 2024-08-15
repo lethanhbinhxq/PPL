@@ -1,0 +1,10 @@
+
+            dynamic x
+            dynamic y
+            func main()
+            begin
+                x <- true
+                x <- y
+                return
+            end
+        

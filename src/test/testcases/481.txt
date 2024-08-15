@@ -1,0 +1,8 @@
+
+            func hello()
+
+            number hello
+            dynamic a  <- "Hello"
+            func main()
+                return
+            

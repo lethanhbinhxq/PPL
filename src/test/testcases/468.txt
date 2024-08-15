@@ -1,0 +1,11 @@
+
+            func foo(number arr[10])
+                return arr[10]
+            func main()
+            begin
+                number x[10]
+                dynamic y <- foo(x)
+                y <- false
+            end
+
+        

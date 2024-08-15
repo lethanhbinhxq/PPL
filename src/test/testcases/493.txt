@@ -1,0 +1,7 @@
+
+            dynamic arr
+            func main()
+            begin
+                var x <- arr[40,90] - 100
+            end
+            

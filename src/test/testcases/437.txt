@@ -1,0 +1,15 @@
+
+            dynamic x
+            dynamic y
+            func main()
+            begin
+                if (x) 
+                    return
+                elif (y) 
+                    return
+                else
+                    x <- y
+                    y <- 456
+                    return
+            end
+        

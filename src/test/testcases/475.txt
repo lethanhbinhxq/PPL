@@ -1,0 +1,7 @@
+
+            func main()
+            begin
+                number x[3,2] <- [[9,8],[7,6],[5]]
+                
+            end
+        

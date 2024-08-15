@@ -1,0 +1,11 @@
+
+            func f(string s)
+                return
+            func main()
+            begin
+                dynamic x
+                f(x)
+                x <- false
+                return
+            end
+        

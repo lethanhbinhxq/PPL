@@ -1,0 +1,13 @@
+
+            number x
+            number y
+            func main()
+            begin
+                if (x = y) 
+                    return
+                elif (x > y) 
+                    return
+                else
+                    return
+            end
+        

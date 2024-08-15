@@ -1,0 +1,9 @@
+
+            bool flag1
+            bool flag2
+            func main()
+            begin
+                flag1 <- flag2
+                return
+            end
+        

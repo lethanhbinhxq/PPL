@@ -1,0 +1,7 @@
+
+            func f()
+            var f <- f()
+
+            func main()
+                return
+        

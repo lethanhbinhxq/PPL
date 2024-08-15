@@ -1,0 +1,14 @@
+
+            func f()
+            begin
+                if (true) 
+                    return "true"
+                else 
+                    return true
+                number x <- 1 + 1
+            end
+            func main()
+            begin
+                var x <- f()
+            end
+        

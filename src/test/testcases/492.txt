@@ -1,0 +1,12 @@
+
+            func main()
+            begin
+                dynamic o
+                dynamic m
+                dynamic n
+                number arr[2,2] <- [o,[m,3]]
+                o <- 1
+                m <- 2
+                n <- true
+            end
+            

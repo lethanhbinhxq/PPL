@@ -1,0 +1,7 @@
+
+            func hello(string hi, string hi)
+                return "Hello"
+
+            func main() 
+                return
+        

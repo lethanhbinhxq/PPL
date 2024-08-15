@@ -1,0 +1,9 @@
+
+            func main()
+            begin
+                var x <- 1
+                var y <- 2
+                var z <- 3
+                continue
+            end
+            

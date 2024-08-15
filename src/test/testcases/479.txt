@@ -1,0 +1,5 @@
+
+            number x <- 2 % "Hi"
+            func main()
+                return
+            

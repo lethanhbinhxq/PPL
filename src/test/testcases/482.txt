@@ -1,0 +1,11 @@
+
+            func g(bool x)
+            begin
+                return g(x)
+            end
+
+            func main()
+            begin
+                var a <- g(true)
+            end
+            

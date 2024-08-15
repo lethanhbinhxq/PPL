@@ -1,0 +1,15 @@
+
+            func main()
+            begin
+                dynamic y
+                number arr[6]
+                arr[0] <- 8
+                arr[1] <- 7
+                arr[2] <- 6
+                arr[3] <- 5
+                arr[4] <- 4
+                arr[5] <- 3
+                y <- arr[2]
+                y <- false
+            end
+        

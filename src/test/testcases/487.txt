@@ -1,0 +1,13 @@
+
+            func f(bool x)
+
+            func main()
+            begin
+                var x <- f(true)
+            end
+
+            func f(bool x)
+            begin
+                return f(x)
+            end
+            

@@ -1,0 +1,17 @@
+
+            func f()
+            
+            func main()
+            begin
+                dynamic x
+                if (f())
+                    return false
+                elif (x)
+                    return x
+                else
+                    return f()
+            end
+
+            func f()
+                return 1
+        

@@ -1,0 +1,11 @@
+
+            func f1()
+                return "2"
+            func f2()
+                return "1"
+            func main()
+            begin
+                dynamic c <- f2() - f1()
+
+            end
+        

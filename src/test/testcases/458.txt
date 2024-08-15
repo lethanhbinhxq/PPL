@@ -1,0 +1,34 @@
+
+            func f1()
+            func f2()
+            func f3()
+
+            func main()
+            begin
+                dynamic a
+                dynamic b
+                dynamic c
+                dynamic d
+                for a until b >= c by d
+                begin
+                    continue
+                end
+                var x <- a + b + c + d
+
+                for a until f1() by f2()
+                begin
+                    f3()
+                end
+
+                number y <- f2()
+                bool z <- f1()
+                
+            end
+
+            func f()
+                return true
+            func f2()
+                return 0
+            func f3()
+                return 1
+        

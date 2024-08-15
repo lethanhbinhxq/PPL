@@ -1,0 +1,9 @@
+
+            bool a <- false
+        
+            func main()
+            begin 
+                bool b <- a and (10 >= 10)
+                return
+            end
+        

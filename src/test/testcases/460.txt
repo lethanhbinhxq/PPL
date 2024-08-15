@@ -1,0 +1,12 @@
+
+            func f()
+                return 1
+            
+            func main()
+            begin
+                if (f())
+                    return 1
+                else
+                    return 0
+            end
+        

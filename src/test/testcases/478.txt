@@ -1,0 +1,13 @@
+
+            func f()
+            func main()
+            begin
+                dynamic x
+                number arr[3,2] <- [f(), x, [1,2]]
+                x <- arr[2]
+                arr[0,1] <- x
+            end
+
+            func f()
+                return [4,5,6]
+        

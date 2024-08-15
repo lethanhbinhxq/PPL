@@ -1,0 +1,7 @@
+
+            dynamic x
+            dynamic y <- x
+            number a
+            func main()
+                return
+        

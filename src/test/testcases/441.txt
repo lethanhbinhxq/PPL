@@ -1,0 +1,11 @@
+
+            func f()
+                return
+            func main()
+            begin
+                number x
+                f(x)
+                dynamic a
+                return
+            end
+        

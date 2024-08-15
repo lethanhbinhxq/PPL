@@ -1,0 +1,8 @@
+
+            func f1()
+
+            func main()
+            begin
+                string s <- f2(5)
+            end
+            

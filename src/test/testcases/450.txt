@@ -1,0 +1,14 @@
+
+            func f(number x)
+            begin
+                if (x = 1)
+                    return 1
+                else
+                    return f(x * 2)        
+            end
+
+            func main()
+            begin
+                var x <- f(9)
+            end
+        

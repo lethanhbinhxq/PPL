@@ -1,0 +1,8 @@
+
+            number x
+            func main()
+            string y <- "Hello"
+            bool z <- true
+            func main() 
+                return 
+        

@@ -1,0 +1,7 @@
+
+            func f()
+                return 123
+            
+            func main()
+                string s <- "Hello" ... " world!"
+        

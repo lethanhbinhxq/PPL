@@ -1,0 +1,7 @@
+
+            string a
+            bool b
+            string c <- "2"
+            bool d <- false
+        
+        

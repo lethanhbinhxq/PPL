@@ -1,0 +1,12 @@
+
+            string s1
+            string s2
+            func concat()
+                return s1 ... s2
+
+            func main()
+            begin
+                s1 <- readString()
+                s2 <- readString()
+                writeString(concat())
+            end
